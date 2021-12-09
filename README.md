@@ -1,7 +1,7 @@
 ## Hola! I'm Venusha 👋 
 
 
-[  🖥  ](https://drplant.venusha.com.app)
+[  🖥 Come & vist me just for a second!  ](https://drplant.venusha.com.app)
 
 ## I'm a Developer, Designer & Student
 
