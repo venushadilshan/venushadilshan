@@ -1,13 +1,14 @@
 ## Hola! I'm Venusha 👋 
 
 
-[  🖥 Come & vist me just for a second!  ](https://drplant.venusha.com.app)
+[  🖥 Come & visit me just for a second!  ](https://drplant.venusha.com.app)
 
 ## I'm a Developer, Designer & Student
 
-- 📚  I just current doing my bachelor degree
+- 📚  I am just current doing my bachelor degree
 - 🎈  Founder of ICT Guru App 
-- ✨  Inspired by myslef
+- ✨ Inspired by myslef
+- 💙 Falling love with "React"
 
 ### Connect with me:
 
@@ -18,6 +19,15 @@
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### Recent Projects:
+
+ICT Guru - ICT Learning App 
+Dr.Plant - Intelligent Plant Disease Detection System
+Exypnos - News App 
+Phoenix LMS
+IQR - Smart QR Atttendance System 
+A/L Technology System
 
 ### Languages and Tools:
 
