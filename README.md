@@ -22,7 +22,7 @@
 
 ### Recent Projects:  🗃 
 
--ICT Guru - ICT Learning App 
+- ICT Guru - ICT Learning App 
 -Dr.Plant - Intelligent Plant Disease Detection System
 -Exypnos - News App 
 -Phoenix LMS
