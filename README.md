@@ -7,8 +7,8 @@
 
 - 📚  I am just current doing my bachelor degree
 - 🎈  Founder of ICT Guru App 
-- ✨ Inspired by myslef
-- 💙 Falling love with "React"
+- ✨ Inspired by myself
+- 💙 Falling in love with "React"
 
 ### Connect with me:  🙌🏻 
 
@@ -26,7 +26,7 @@
 - Dr.Plant - Intelligent Plant Disease Detection System
 - Exypnos - News App 
 - Phoenix LMS
-- IQR - Smart QR Atttendance System 
+- IQR - Smart QR Attendance System 
 - A/L Technology System
 
 ### Languages and Tools: 📊 
