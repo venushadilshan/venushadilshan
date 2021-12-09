@@ -23,11 +23,11 @@
 ### Recent Projects:  🗃 
 
 - ICT Guru - ICT Learning App 
--Dr.Plant - Intelligent Plant Disease Detection System
--Exypnos - News App 
--Phoenix LMS
--IQR - Smart QR Atttendance System 
--A/L Technology System
+- Dr.Plant - Intelligent Plant Disease Detection System
+- Exypnos - News App 
+- Phoenix LMS
+- IQR - Smart QR Atttendance System 
+- A/L Technology System
 
 ### Languages and Tools: 📊 
 
