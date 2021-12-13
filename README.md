@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Designer & Student
 
-- 📚  I am just current doing my bachelor degree
+- 📚  I am currently doing my bachelor degree
 - 🎈  Founder of ICT Guru App 
 - ✨ Inspired by myself
 - 💙 Falling in love with "React"
