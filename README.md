@@ -20,7 +20,9 @@
 
 ### Recent Projects:  🗃 
 
-- ICT Guru - ICT Learning App 
+- ICT Guru - ICT Learning App
+- Dashee - A Dashboard System for React
+- react-spinner  
 - Dr.Plant - Intelligent Plant Disease Detection System
 - Exypnos - News App 
 - Phoenix LMS
