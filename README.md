@@ -4,7 +4,7 @@
 [  🖥 Come & visit me just for a second!  ](https://venusha.com)
 
 ## I'm a Developer, Designer & Student 
-- 📚  I am currently doing my bachelor degree 
+- 📚  I am currently doing my bachelor's degree 
 - 🎈  Founder of ICT Guru App 
 - ✨ Inspired by myself
 - 💙 Falling in love with "React"
