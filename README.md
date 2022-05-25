@@ -3,11 +3,14 @@
 
 [  🖥 Come & visit me just for a second!  ](https://venusha.com)
 
-## I'm a Developer, Designer & Student 
+## I'm a Developer & a Designer 
 - 📚  I am currently doing my bachelor's degree 
 - 🎈  Founder of ICT Guru App 
 - ✨ Inspired by myself
 - 💙 Falling in love with "React"
+
+I love to develop with "creativity", not just coding on an IDE or text editor all day long. What I want is to use art and creativity in a software product. So, as you might guess I love UI UX design and Frontend development. I use my creative skills to design stunning and usable user interfaces, and I transform those designs into functional software products. I love to work with colours, shapes and graphics. It is just like meditation for me. Then developing the product by looking at those designs is even more interesting. React and Figma are my secret ingredients. 
+
 </br></br>
 ### Connect with me:  🙌🏻 </br>
 [<img  alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />][website]
@@ -19,7 +22,7 @@
 </br></br>
 
 ### Recent Projects:  🗃 
-
+- Dispor - Waste Management App 
 - ICT Guru - ICT Learning App
 - Dashee - A Dashboard System for React
 - react-spinner  
