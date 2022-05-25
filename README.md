@@ -10,17 +10,14 @@
 - 💙 Falling in love with "React"
 
 I love to develop with "creativity", not just coding on an IDE or text editor all day long. What I want is to use art and creativity in a software product. So, as you might guess I love UI UX design and Frontend development. I use my creative skills to design stunning and usable user interfaces, and I transform those designs into functional software products. I love to work with colours, shapes and graphics. It is just like meditation for me. Then developing the product by looking at those designs is even more interesting. React and Figma are my secret ingredients. 
-
-</br></br>
+</br>
 ### Connect with me:  🙌🏻 </br>
 [<img  alt="" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />][website]
 [<img  alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][fb]
 [<img  alt="" 	src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img  alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img  alt="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
-</br></br>
-
+</br>
 ### Recent Projects:  🗃 
 - Dispor - Waste Management App 
 - ICT Guru - ICT Learning App
