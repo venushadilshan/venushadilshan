@@ -3,8 +3,9 @@
 
 [  🖥 Come & visit me just for a second!  ](https://venusha.com)
 
-## I'm a Developer & a Designer 
+## A Developer & A Designer 
 - 📚  I am currently doing my bachelor's degree 
+- Works at Syntax Genie (Associate UI/UX & SE)
 - 🎈  Founder of ICT Guru App 
 - ✨ Inspired by myself
 - 💙 Falling in love with "React"
