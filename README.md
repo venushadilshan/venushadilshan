@@ -3,13 +3,9 @@
 
 [  🖥 Come & visit me just for a second!  ](https://venusha.com)
 
-## A Developer & A Designer 
-- 📚  I am currently doing my bachelor's degree 
-- Works at Syntax Genie (Associate UI/UX & SE)
-- 🎈  Founder of ICT Guru App 
-- ✨ Inspired by myself
-- 💙 Falling in love with "React"
-
+## I do UI/UX and Developemnt 
+- Work as an UI/UX & Software Engineer
+  
 I love to develop with "creativity", not just coding on an IDE or text editor all day long. What I want is to use art and creativity in a software product. So, as you might guess I love UI UX design and Frontend development. I use my creative skills to design stunning and usable user interfaces, and I transform those designs into functional software products. I love to work with colours, shapes and graphics. It is just like meditation for me. Then developing the product by looking at those designs is even more interesting. React and Figma are my secret ingredients. 
 </br>
 ### Connect with me:  🙌🏻 </br>
@@ -24,6 +20,7 @@ I love to develop with "creativity", not just coding on an IDE or text editor al
 </br>
 
 ### Recent Projects:  🗃 
+- SecretCentric 
 - Dispor - Waste Management App 
 - ICT Guru - ICT Learning App
 - Dashee - A Dashboard System for React
