@@ -3,8 +3,8 @@
 
 [  🖥 Come & visit me just for a second!  ](https://venusha.com)
 
-## I do UI/UX and Developemnt 
-- Work as an UI/UX & Software Engineer
+## I do UI/UX and Development 
+- Work as a UI/UX & Software Engineer
   
 I love to develop with "creativity", not just coding on an IDE or text editor all day long. What I want is to use art and creativity in a software product. So, as you might guess I love UI UX design and Frontend development. I use my creative skills to design stunning and usable user interfaces, and I transform those designs into functional software products. I love to work with colours, shapes and graphics. It is just like meditation for me. Then developing the product by looking at those designs is even more interesting. React and Figma are my secret ingredients. 
 </br>
